@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{86930460-AFA4-E3C7-5B36-AF4EC6073C96}") = "InfiniteRunner", "Assembly-CSharp.csproj", "{9521920E-A3D1-01C8-0D29-8FF8E759F64F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9521920E-A3D1-01C8-0D29-8FF8E759F64F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9521920E-A3D1-01C8-0D29-8FF8E759F64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9521920E-A3D1-01C8-0D29-8FF8E759F64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9521920E-A3D1-01C8-0D29-8FF8E759F64F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
