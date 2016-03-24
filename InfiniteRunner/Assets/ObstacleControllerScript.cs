@@ -25,10 +25,11 @@ public class ObstacleControllerScript : MonoBehaviour {
 
     void OnCollisionEnter2D(Collision2D other)
     {
-        if (other.name == "Ninja")
+        if (other.gameObject.name == "Ninja")
         {
             Time.timeScale = 0;
             Destroy(other.gameObject);
 
         }
+    }
 }
