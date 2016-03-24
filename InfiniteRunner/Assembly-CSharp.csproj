@@ -45,8 +45,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\ObstacleControllerScript.cs" />
-     <Compile Include="Assets\PlayerControllerScript.cs" />
+     <Compile Include="Assets\Scripts\ObstacleControllerScript.cs" />
+     <Compile Include="Assets\Scripts\PlayerControllerScript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
